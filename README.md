@@ -1,6 +1,5 @@
 # **YTMPX - YouTube & Spotify Downloader**  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Anshkabra2012/YTMPX)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anshkabra2012/YTMPX)  
 ![GitHub stars](https://img.shields.io/github/stars/Anshkabra2012/YTMPX?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/Anshkabra2012/YTMPX?style=social)  
